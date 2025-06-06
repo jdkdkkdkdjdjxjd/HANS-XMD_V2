@@ -2,19 +2,19 @@
 //YouTube: @HANSTZ-TECH
 //Whatsapp https://wa.me/255756530143
 //GitHub: @Mrhanstz
-//WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+//WhatsApp: {"noiseKey":{"private":{"type":"Buffer","data":"oFGDmCuxIWactGSm7ak0yZ85XUMBjgWh5yn38/NJRVI="},"public":{"type":"Buffer","data":"I2nnYA3C0TFjVNyC1WQpO7BntYMFOY0i/1WKwJ9E1w0="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"+OAcQZ6RRwfupQO7e4jrpZXIK9hCQTMT0d5psRYQQEs="},"public":{"type":"Buffer","data":"EhVlp6sFPISRqdwYqwXyGuUAz78pm5eXPN4UFlLVkR0="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"uBVyYU3ixaDJkxOIrVJfqASpYxXeFHbseI8wuOXTkUs="},"public":{"type":"Buffer","data":"WAS8xz61t3T6uwzOWCnLfP2U+lkxeMAqYr9N7yPZLQQ="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"oPCwY2R6KnukLCtWwTW07htf0szuLej5jjk31+3xAVY="},"public":{"type":"Buffer","data":"VCT2ufMncmns7FN381TCd/U7C+FG7Y5Ti8Y5wWohVjg="}},"signature":{"type":"Buffer","data":"qKzeDdaOloPQWhTRtaSlWk9quFQcs0IXM+8pRrKTqXWtSvtCEeaaA6G++D38/gtBygacIi4JVUYb5snoQCagiQ=="},"keyId":1},"registrationId":230,"advSecretKey":"sR6eKU86wYoCUEVMRFOKGNpa4pZBCLuzRntHIyHUFn0=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"JCFGTNPY","me":{"id":"18495766766:32@s.whatsapp.net","lid":"101069841514742:32@lid"},"account":{"details":"CMXA0aICENzsjcIGGAEgACgA","accountSignatureKey":"NiOakbV6WNRHNMKgYJUND1vJ/YlBifP3aUetQNHgIWc=","accountSignature":"O3I4xKJGeY+sS5zC5Xm4PwqC0JDPo2ddvQQvRREiIE02NpjE7Fxf/jsIfzOEb4bMNIMxnVtSyANiIDrv+BjABg==","deviceSignature":"W52WEv5wiJMQOK692Ic8S581kLxZpt3AJfKCTBBcsEYKTlUrBK60QB+4HNqIyce+04BYk7hPGoOND+thO3e6jQ=="},"signalIdentities":[{"identifier":{"name":"18495766766:32@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BTYjmpG1eljURzTCoGCVDQ9byf2JQYnz92lHrUDR4CFn"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CBIICA=="},"lastAccountSyncTimestamp":1749251690}
 //want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
-global.ytname = "HANSTZ-TECH"
+global.ownernomer = "8495766766"
+global.ownername = "ANGEL"
+global.ytname = "ANGEL"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownernumber = '8495766766'  //creator number
+global.ownername = 'ANGEL' //owner name
+global.botname = 'ANGEL' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
 global.author = 'HANS-XMD'
